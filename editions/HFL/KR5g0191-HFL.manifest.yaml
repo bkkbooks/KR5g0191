@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0191/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0191/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清九丹上化胎精中記經
+  date: '2015-08-29 02:59:46.220006'
+  source:
+    repository: kanripo
+    path: KR5g0191
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0191_000-HFL.yaml, hash: 'sha256:f20cff1b845e2a43817dde33650ce07943d01fdcbb912841c4208153b1cde9f5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0191_000-HFL.markers.yaml, hash: 'sha256:07515f7a113a5ec9e6b506c830595ac40d65c0d71520fd5d22cbf6fd47363919'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0191_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 8221
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:2afc05a3161875b81e0cd5a4e4145eabc9230ffa718ffba0b4bc75b5f49aad6a
